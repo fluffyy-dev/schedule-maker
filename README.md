@@ -1,6 +1,10 @@
 # schedule-maker
 for my mom :)
 
+hoping to makes this into a website but idk how to connect python to html yet
+
+progress: not finished 💀
+
 
 ## installation
 
